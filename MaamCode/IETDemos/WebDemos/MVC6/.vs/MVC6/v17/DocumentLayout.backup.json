@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0707D1E5-65A4-4946-83F4-EAB6258454DE}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\mvccorewithmvctemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707D1E5-65A4-4946-83F4-EAB6258454DE}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707D1E5-65A4-4946-83F4-EAB6258454DE}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\mvccorewithmvctemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707D1E5-65A4-4946-83F4-EAB6258454DE}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707D1E5-65A4-4946-83F4-EAB6258454DE}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\mvccorewithmvctemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0707D1E5-65A4-4946-83F4-EAB6258454DE}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707D1E5-65A4-4946-83F4-EAB6258454DE}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\mvccorewithmvctemplate\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0707D1E5-65A4-4946-83F4-EAB6258454DE}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7046DB17-3348-4C14-8613-771611C72A65}|15DataBaseFirstEF\\15DataBaseFirstEF.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\15databasefirstef\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7046DB17-3348-4C14-8613-771611C72A65}|15DataBaseFirstEF\\15DataBaseFirstEF.csproj|solutionrelative:15databasefirstef\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7046DB17-3348-4C14-8613-771611C72A65}|15DataBaseFirstEF\\15DataBaseFirstEF.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\15databasefirstef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7046DB17-3348-4C14-8613-771611C72A65}|15DataBaseFirstEF\\15DataBaseFirstEF.csproj|solutionrelative:15databasefirstef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7046DB17-3348-4C14-8613-771611C72A65}|15DataBaseFirstEF\\15DataBaseFirstEF.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\15databasefirstef\\models\\dacdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7046DB17-3348-4C14-8613-771611C72A65}|15DataBaseFirstEF\\15DataBaseFirstEF.csproj|solutionrelative:15databasefirstef\\models\\dacdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7046DB17-3348-4C14-8613-771611C72A65}|15DataBaseFirstEF\\15DataBaseFirstEF.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\15databasefirstef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7046DB17-3348-4C14-8613-771611C72A65}|15DataBaseFirstEF\\15DataBaseFirstEF.csproj|solutionrelative:15databasefirstef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7046DB17-3348-4C14-8613-771611C72A65}|15DataBaseFirstEF\\15DataBaseFirstEF.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\15databasefirstef\\views\\emp\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7046DB17-3348-4C14-8613-771611C72A65}|15DataBaseFirstEF\\15DataBaseFirstEF.csproj|solutionrelative:15databasefirstef\\views\\emp\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDFCAC8-F3FB-4E63-8828-E3C1D33BB92B}|14CodeFirstEF\\14CodeFirstEF.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\14codefirstef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDFCAC8-F3FB-4E63-8828-E3C1D33BB92B}|14CodeFirstEF\\14CodeFirstEF.csproj|solutionrelative:14codefirstef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDFCAC8-F3FB-4E63-8828-E3C1D33BB92B}|14CodeFirstEF\\14CodeFirstEF.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\14codefirstef\\models\\dacdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDFCAC8-F3FB-4E63-8828-E3C1D33BB92B}|14CodeFirstEF\\14CodeFirstEF.csproj|solutionrelative:14codefirstef\\models\\dacdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDFCAC8-F3FB-4E63-8828-E3C1D33BB92B}|14CodeFirstEF\\14CodeFirstEF.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\14codefirstef\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDFCAC8-F3FB-4E63-8828-E3C1D33BB92B}|14CodeFirstEF\\14CodeFirstEF.csproj|solutionrelative:14codefirstef\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6CC098-7238-4AF3-AF1A-47C0373A571B}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\16loginlogoutsessions\\models\\dacdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6CC098-7238-4AF3-AF1A-47C0373A571B}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|solutionrelative:16loginlogoutsessions\\models\\dacdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6CC098-7238-4AF3-AF1A-47C0373A571B}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\16loginlogoutsessions\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6CC098-7238-4AF3-AF1A-47C0373A571B}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|solutionrelative:16loginlogoutsessions\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6CC098-7238-4AF3-AF1A-47C0373A571B}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\16loginlogoutsessions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6CC098-7238-4AF3-AF1A-47C0373A571B}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|solutionrelative:16loginlogoutsessions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6CC098-7238-4AF3-AF1A-47C0373A571B}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\16loginlogoutsessions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6CC098-7238-4AF3-AF1A-47C0373A571B}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|solutionrelative:16loginlogoutsessions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165FD8D-A351-4C05-877D-8F0545910848}|01MVCBasic\\01MVCBasic.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\webdemos\\mvc6\\01mvcbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165FD8D-A351-4C05-877D-8F0545910848}|01MVCBasic\\01MVCBasic.csproj|solutionrelative:01mvcbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\MVCCoreWithMVCTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\MVCCoreWithMVCTemplate\\Program.cs",
+              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T03:42:03.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\MVCCoreWithMVCTemplate\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\MVCCoreWithMVCTemplate\\appsettings.json",
+              "RelativeToolTip": "MVCCoreWithMVCTemplate\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T03:42:01.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\MVCCoreWithMVCTemplate\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\MVCCoreWithMVCTemplate\\appsettings.Development.json",
+              "RelativeToolTip": "MVCCoreWithMVCTemplate\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T03:41:59.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\MVCCoreWithMVCTemplate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\MVCCoreWithMVCTemplate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T03:41:24.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\15DataBaseFirstEF\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "15DataBaseFirstEF\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\15DataBaseFirstEF\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "15DataBaseFirstEF\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:45:14.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\15DataBaseFirstEF\\Program.cs",
+              "RelativeDocumentMoniker": "15DataBaseFirstEF\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\15DataBaseFirstEF\\Program.cs",
+              "RelativeToolTip": "15DataBaseFirstEF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:50:37.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\15DataBaseFirstEF\\appsettings.json",
+              "RelativeDocumentMoniker": "15DataBaseFirstEF\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\15DataBaseFirstEF\\appsettings.json",
+              "RelativeToolTip": "15DataBaseFirstEF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T14:50:32.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DACDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\15DataBaseFirstEF\\Models\\DACDbContext.cs",
+              "RelativeDocumentMoniker": "15DataBaseFirstEF\\Models\\DACDbContext.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\15DataBaseFirstEF\\Models\\DACDbContext.cs",
+              "RelativeToolTip": "15DataBaseFirstEF\\Models\\DACDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:50:20.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\15DataBaseFirstEF\\Views\\Emp\\Create.cshtml",
+              "RelativeDocumentMoniker": "15DataBaseFirstEF\\Views\\Emp\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\15DataBaseFirstEF\\Views\\Emp\\Create.cshtml",
+              "RelativeToolTip": "15DataBaseFirstEF\\Views\\Emp\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:50:12.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\14CodeFirstEF\\Program.cs",
+              "RelativeDocumentMoniker": "14CodeFirstEF\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\14CodeFirstEF\\Program.cs",
+              "RelativeToolTip": "14CodeFirstEF\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:39:58.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\14CodeFirstEF\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "14CodeFirstEF\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\14CodeFirstEF\\Models\\Employee.cs",
+              "RelativeToolTip": "14CodeFirstEF\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:28:08.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DACDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\14CodeFirstEF\\Models\\DACDbContext.cs",
+              "RelativeDocumentMoniker": "14CodeFirstEF\\Models\\DACDbContext.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\14CodeFirstEF\\Models\\DACDbContext.cs",
+              "RelativeToolTip": "14CodeFirstEF\\Models\\DACDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:28:05.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DACDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\16LoginLogoutSessions\\Models\\DACDbContext.cs",
+              "RelativeDocumentMoniker": "16LoginLogoutSessions\\Models\\DACDbContext.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\16LoginLogoutSessions\\Models\\DACDbContext.cs",
+              "RelativeToolTip": "16LoginLogoutSessions\\Models\\DACDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:37:38.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\16LoginLogoutSessions\\Models\\User.cs",
+              "RelativeDocumentMoniker": "16LoginLogoutSessions\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\16LoginLogoutSessions\\Models\\User.cs",
+              "RelativeToolTip": "16LoginLogoutSessions\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:36:58.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\16LoginLogoutSessions\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "16LoginLogoutSessions\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\16LoginLogoutSessions\\Models\\Employee.cs",
+              "RelativeToolTip": "16LoginLogoutSessions\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:35:03.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\16LoginLogoutSessions\\Program.cs",
+              "RelativeDocumentMoniker": "16LoginLogoutSessions\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\16LoginLogoutSessions\\Program.cs",
+              "RelativeToolTip": "16LoginLogoutSessions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:23:53.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\01MVCBasic\\Program.cs",
+              "RelativeDocumentMoniker": "01MVCBasic\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\WebDemos\\MVC6\\01MVCBasic\\Program.cs",
+              "RelativeToolTip": "01MVCBasic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:07:15.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

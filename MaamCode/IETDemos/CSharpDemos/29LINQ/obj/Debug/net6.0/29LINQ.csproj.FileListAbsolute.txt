@@ -1,0 +1,15 @@
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\bin\Debug\net6.0\29LINQ.exe
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\bin\Debug\net6.0\29LINQ.deps.json
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\bin\Debug\net6.0\29LINQ.runtimeconfig.json
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\bin\Debug\net6.0\29LINQ.dll
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\bin\Debug\net6.0\29LINQ.pdb
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\obj\Debug\net6.0\29LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\obj\Debug\net6.0\29LINQ.AssemblyInfoInputs.cache
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\obj\Debug\net6.0\29LINQ.AssemblyInfo.cs
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\obj\Debug\net6.0\29LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\obj\Debug\net6.0\29LINQ.sourcelink.json
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\obj\Debug\net6.0\29LINQ.dll
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\obj\Debug\net6.0\refint\29LINQ.dll
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\obj\Debug\net6.0\29LINQ.pdb
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\obj\Debug\net6.0\29LINQ.genruntimeconfig.cache
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\29LINQ\obj\Debug\net6.0\ref\29LINQ.dll

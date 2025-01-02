@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3FBACB-E5A0-41DF-82A3-A28BA7AAE9A5}|19FileIOSerialization\\19FileIOSerialization.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\19fileioserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3FBACB-E5A0-41DF-82A3-A28BA7AAE9A5}|19FileIOSerialization\\19FileIOSerialization.csproj|solutionrelative:19fileioserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3FBACB-E5A0-41DF-82A3-A28BA7AAE9A5}|19FileIOSerialization\\19FileIOSerialization.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\19fileioserialization\\files\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC3FBACB-E5A0-41DF-82A3-A28BA7AAE9A5}|19FileIOSerialization\\19FileIOSerialization.csproj|solutionrelative:19fileioserialization\\files\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3FBACB-E5A0-41DF-82A3-A28BA7AAE9A5}|19FileIOSerialization\\19FileIOSerialization.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\19fileioserialization\\files\\empdata.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC3FBACB-E5A0-41DF-82A3-A28BA7AAE9A5}|19FileIOSerialization\\19FileIOSerialization.csproj|solutionrelative:19fileioserialization\\files\\empdata.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3FBACB-E5A0-41DF-82A3-A28BA7AAE9A5}|19FileIOSerialization\\19FileIOSerialization.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\19fileioserialization\\files\\empdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC3FBACB-E5A0-41DF-82A3-A28BA7AAE9A5}|19FileIOSerialization\\19FileIOSerialization.csproj|solutionrelative:19fileioserialization\\files\\empdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749309C9-AA5A-464C-BE5D-1955A394AF69}|29LINQ\\29LINQ.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\29linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749309C9-AA5A-464C-BE5D-1955A394AF69}|29LINQ\\29LINQ.csproj|solutionrelative:29linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749309C9-AA5A-464C-BE5D-1955A394AF69}|29LINQ\\29LINQ.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\29linq\\29linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{749309C9-AA5A-464C-BE5D-1955A394AF69}|29LINQ\\29LINQ.csproj|solutionrelative:29linq\\29linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB58242-3192-494B-BBCF-2F5DE56B788F}|30LINQ\\30LINQ.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\30linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB58242-3192-494B-BBCF-2F5DE56B788F}|30LINQ\\30LINQ.csproj|solutionrelative:30linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06716715-ABA4-4C64-89C8-59B01D0F9A9E}|36Threading\\36Threading.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\36threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06716715-ABA4-4C64-89C8-59B01D0F9A9E}|36Threading\\36Threading.csproj|solutionrelative:36threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B97764-21DC-4933-BC58-CF7B6FBDF5E1}|32DisconnectedArchitectureDB\\32DisconnectedArchitectureDB.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\32disconnectedarchitecturedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B97764-21DC-4933-BC58-CF7B6FBDF5E1}|32DisconnectedArchitectureDB\\32DisconnectedArchitectureDB.csproj|solutionrelative:32disconnectedarchitecturedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726FAC-B1CA-4792-B9B6-4A774558BF0A}|31ConnectedArchitetureDb\\31ConnectedArchitetureDb.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\31connectedarchiteturedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726FAC-B1CA-4792-B9B6-4A774558BF0A}|31ConnectedArchitetureDb\\31ConnectedArchitetureDb.csproj|solutionrelative:31connectedarchiteturedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Anurag/True/SqlTable/dbo.EmpData.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7E53EB-6405-425B-A131-033D7D1B03D2}|34EntityFramework\\34EntityFramework.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\34entityframework\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7E53EB-6405-425B-A131-033D7D1B03D2}|34EntityFramework\\34EntityFramework.csproj|solutionrelative:34entityframework\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726FAC-B1CA-4792-B9B6-4A774558BF0A}|31ConnectedArchitetureDb\\31ConnectedArchitetureDb.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\31connectedarchiteturedb\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726FAC-B1CA-4792-B9B6-4A774558BF0A}|31ConnectedArchitetureDb\\31ConnectedArchitetureDb.csproj|solutionrelative:31connectedarchiteturedb\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726FAC-B1CA-4792-B9B6-4A774558BF0A}|31ConnectedArchitetureDb\\31ConnectedArchitetureDb.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\31connectedarchiteturedb\\model\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726FAC-B1CA-4792-B9B6-4A774558BF0A}|31ConnectedArchitetureDb\\31ConnectedArchitetureDb.csproj|solutionrelative:31connectedarchiteturedb\\model\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65632813-F0F0-4276-84DC-2C37AFC6CD34}|14Collections\\14Collections.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\14collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65632813-F0F0-4276-84DC-2C37AFC6CD34}|14Collections\\14Collections.csproj|solutionrelative:14collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7E53EB-6405-425B-A131-033D7D1B03D2}|34EntityFramework\\34EntityFramework.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\34entityframework\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7E53EB-6405-425B-A131-033D7D1B03D2}|34EntityFramework\\34EntityFramework.csproj|solutionrelative:34entityframework\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7E53EB-6405-425B-A131-033D7D1B03D2}|34EntityFramework\\34EntityFramework.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\34entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7E53EB-6405-425B-A131-033D7D1B03D2}|34EntityFramework\\34EntityFramework.csproj|solutionrelative:34entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7E53EB-6405-425B-A131-033D7D1B03D2}|34EntityFramework\\34EntityFramework.csproj|c:\\users\\rushikesh\\desktop\\vit\\cdac\\dotnet\\notes\\ietdemos\\csharpdemos\\34entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C7E53EB-6405-425B-A131-033D7D1B03D2}|34EntityFramework\\34EntityFramework.csproj|solutionrelative:34entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpData.xml",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\19FileIOSerialization\\Files\\EmpData.xml",
+              "RelativeDocumentMoniker": "19FileIOSerialization\\Files\\EmpData.xml",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\19FileIOSerialization\\Files\\EmpData.xml",
+              "RelativeToolTip": "19FileIOSerialization\\Files\\EmpData.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-02T02:07:14.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpData.json",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\19FileIOSerialization\\Files\\EmpData.json",
+              "RelativeDocumentMoniker": "19FileIOSerialization\\Files\\EmpData.json",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\19FileIOSerialization\\Files\\EmpData.json",
+              "RelativeToolTip": "19FileIOSerialization\\Files\\EmpData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T02:07:06.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.txt",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\19FileIOSerialization\\Files\\Data.txt",
+              "RelativeDocumentMoniker": "19FileIOSerialization\\Files\\Data.txt",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\19FileIOSerialization\\Files\\Data.txt",
+              "RelativeToolTip": "19FileIOSerialization\\Files\\Data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-02T02:07:04.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "29LINQ",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\29LINQ\\29LINQ.csproj",
+              "RelativeDocumentMoniker": "29LINQ\\29LINQ.csproj",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\29LINQ\\29LINQ.csproj",
+              "RelativeToolTip": "29LINQ\\29LINQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T02:03:51.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\30LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "30LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\30LINQ\\Program.cs",
+              "RelativeToolTip": "30LINQ\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T02:03:15.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\36Threading\\Program.cs",
+              "RelativeDocumentMoniker": "36Threading\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\36Threading\\Program.cs",
+              "RelativeToolTip": "36Threading\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T02:03:01.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\32DisconnectedArchitectureDB\\Program.cs",
+              "RelativeDocumentMoniker": "32DisconnectedArchitectureDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\32DisconnectedArchitectureDB\\Program.cs",
+              "RelativeToolTip": "32DisconnectedArchitectureDB\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwCgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T01:28:51.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\31ConnectedArchitetureDb\\Program.cs",
+              "RelativeDocumentMoniker": "31ConnectedArchitetureDb\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\31ConnectedArchitetureDb\\Program.cs",
+              "RelativeToolTip": "31ConnectedArchitetureDb\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwGoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:41:54.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\19FileIOSerialization\\Program.cs",
+              "RelativeDocumentMoniker": "19FileIOSerialization\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\19FileIOSerialization\\Program.cs*",
+              "RelativeToolTip": "19FileIOSerialization\\Program.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:41:49.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.EmpData [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Anurag/True/SqlTable/dbo.EmpData.sql",
+              "ToolTip": "dbo.EmpData [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-02T01:54:59.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\31ConnectedArchitetureDb\\Model\\Emp.cs",
+              "RelativeDocumentMoniker": "31ConnectedArchitetureDb\\Model\\Emp.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\31ConnectedArchitetureDb\\Model\\Emp.cs",
+              "RelativeToolTip": "31ConnectedArchitetureDb\\Model\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:41:51.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IETDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\31ConnectedArchitetureDb\\DAL\\IETDbContext.cs",
+              "RelativeDocumentMoniker": "31ConnectedArchitetureDb\\DAL\\IETDbContext.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\31ConnectedArchitetureDb\\DAL\\IETDbContext.cs",
+              "RelativeToolTip": "31ConnectedArchitetureDb\\DAL\\IETDbContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:41:12.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\29LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "29LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\29LINQ\\Program.cs",
+              "RelativeToolTip": "29LINQ\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:17:30.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\14Collections\\Program.cs",
+              "RelativeDocumentMoniker": "14Collections\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\14Collections\\Program.cs",
+              "RelativeToolTip": "14Collections\\Program.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAQwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:03:11.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\34EntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "34EntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\34EntityFramework\\Program.cs",
+              "RelativeToolTip": "34EntityFramework\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:36:35.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IETDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\34EntityFramework\\DAL\\IETDbContext.cs",
+              "RelativeDocumentMoniker": "34EntityFramework\\DAL\\IETDbContext.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\34EntityFramework\\DAL\\IETDbContext.cs",
+              "RelativeToolTip": "34EntityFramework\\DAL\\IETDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:36:08.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\34EntityFramework\\appsettings.json",
+              "RelativeDocumentMoniker": "34EntityFramework\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\34EntityFramework\\appsettings.json",
+              "RelativeToolTip": "34EntityFramework\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T15:36:31.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\34EntityFramework\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "34EntityFramework\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\VIT\\CDAC\\DOTNET\\Notes\\IETDemos\\CSharpDemos\\34EntityFramework\\Model\\Employee.cs",
+              "RelativeToolTip": "34EntityFramework\\Model\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:36:04.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

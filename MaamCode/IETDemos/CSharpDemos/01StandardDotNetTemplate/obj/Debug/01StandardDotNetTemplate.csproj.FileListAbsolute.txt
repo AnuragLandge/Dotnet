@@ -1,0 +1,7 @@
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\01StandardDotNetTemplate\bin\Debug\01StandardDotNetTemplate.exe.config
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\01StandardDotNetTemplate\bin\Debug\01StandardDotNetTemplate.exe
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\01StandardDotNetTemplate\bin\Debug\01StandardDotNetTemplate.pdb
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\01StandardDotNetTemplate\obj\Debug\01StandardDotNetTemplate.csproj.AssemblyReference.cache
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\01StandardDotNetTemplate\obj\Debug\01StandardDotNetTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\01StandardDotNetTemplate\obj\Debug\01StandardDotNetTemplate.exe
+C:\Users\Rushikesh\Desktop\VIT\CDAC\DOTNET\Notes\IETDemos\CSharpDemos\01StandardDotNetTemplate\obj\Debug\01StandardDotNetTemplate.pdb
